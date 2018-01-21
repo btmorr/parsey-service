@@ -25,8 +25,8 @@ The body of the server response will be the stdout from Parsey.
 
 ## Dev Notes
 
-This project is currently in Python 2, as [tensorflow]() does not
-support Python 3.
+This project is currently in Python 2, as
+[tensorflow](https://github.com/tensorflow) does not support Python 3.
 
 In order to avoid having to cusomize the demo.sh file from syntaxnet,
 the web server relies on being executed from a specific working

@@ -17,7 +17,7 @@ E.g.:
 
 ```json
 {
-  'input': 'This is an example sentence.'
+  "input": "This is an example sentence."
 }
 ```
 
